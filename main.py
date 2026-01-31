@@ -8,7 +8,7 @@ import os
 # ===========================
 # CONFIG
 TOKEN = "8284310916:AAFvODpBkQ1rHW4jDkpeNvRoXlIIS-iUEhU"
-WEBHOOK_URL = "https://<YOUR-RENDER-URL>.onrender.com/"  # جایگزین با URL رندر شما
+WEBHOOK_URL = "https://reddd-vyh8.onrender.com"  # جایگزین با URL رندر شما
 DB_FILE = "database.db"
 # ===========================
 
